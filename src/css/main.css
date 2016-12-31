@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+}
+
+.product-list-item {
+  border: 1px solid #fff;
+  border-radius: 5px;
+  transition: all 240ms ease;
+  background: #bbb;
+}
+
+.product-list {
+  border: 1px solid blue;
+}

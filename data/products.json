@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Product 1",
+    "shortDescription": "Lorem Ipsum",
+    "description": "Lorem Ipsum Dolor Sit Amet",
+    "price": 5000,
+    "quantity": 2,
+    "thumb": "resources/products/1/thumb-list.jpg"
+  },
+  {
+    "name": "Product 2",
+    "shortDescription": "Lorem Ipsum",
+    "description": "Lorem Ipsum Dolor Sit Amet",
+    "price": 6000,
+    "quantity": 2,
+    "thumb": "resources/products/2/thumb-list.jpg"
+  },
+  {
+    "name": "Product 3",
+    "shortDescription": "Lorem Ipsum",
+    "description": "Lorem Ipsum Dolor Sit Amet",
+    "price": 3000,
+    "quantity": 2,
+    "thumb": "resources/products/3/thumb-list.jpg"
+  }
+]
